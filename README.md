@@ -5,7 +5,7 @@ I'm confident using HTMl, CSS, Bootstrap 5 and somewhat less confident using MyS
 I have also used CorelDraw and Adobe Photoshop a lot in my earlier carrier as a Marketer. 
 
 And I'd love to participate in any project to get more experience working on something that might actually go life.
-S, if you could use my skills in your project, or maybe just have one in mind, please drop me and email at marija@dailyart.eu
+If you could use my skills in your project, or maybe just have one in mind, please drop me and email at marija@dailyart.eu
 
 
 
