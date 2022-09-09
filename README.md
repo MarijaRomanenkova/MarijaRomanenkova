@@ -1,7 +1,7 @@
 Hi there, I’m Marija
 
-I'm currently finishing Front-end developer courses learning React and Node.js,  and hoping to find internship and swicth my carrier one day to Web Deveoplment. 
-I'm confident using HTMl, CSS, Bootstrap 5 and somewhat less confident using MySQL and Javascript.
+I'm currently finishing MERK stack developer courses ,  and hoping to find internship and swicth my carrier one day to Web Deveoplment. 
+I'm using HTMl, CSS, Javascript,  MySQL, Bootstrap5, React and am now am studing in Node.js class.
 I have also used CorelDraw and Adobe Photoshop a lot in my earlier carrier as a Marketer. 
 
 And I'd love to participate in any project to get more experience working on something that might actually go life.
