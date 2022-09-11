@@ -1,6 +1,6 @@
 Hi there, I’m Marija
 
-I'm currently finishing MERN stack developer courses ,  and hoping to find internship and swicth my carrier one day to Web Deveoplment. 
+I'm currently finishing Front end developer courses ,  and hoping to find internship and swicth my carrier one day to Web Deveoplment. 
 I'm using HTMl, CSS, Javascript,  MySQL, Bootstrap5, React and am now am studing in Node.js class.
 I have also used CorelDraw and Adobe Photoshop a lot in my earlier carrier as a Marketer. 
 
